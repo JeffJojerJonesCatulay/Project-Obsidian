@@ -1,0 +1,135 @@
+            # websites
+            elif 'open youtube' in userInput:
+                OCA.websites("opening youtube...", "https://www.youtube.com/")
+            elif 'open google' in userInput:
+                OCA.websites("opening google...", "https://www.google.com/")
+            elif 'open twitter' in userInput:
+                OCA.websites("opening twitter", "https://twitter.com/home")
+            elif 'open instagram' in userInput:
+                OCA.websites("opening instagram", "https://www.instagram.com/")
+            elif 'open tesda website' in userInput:
+                OCA.websites("opening tesda website", "https://www.e-tesda.gov.ph/login/index.php")
+            elif 'open facebook' in userInput:
+                OCA.websites("opening facebook", "https://www.facebook.com/")
+            elif 'open messenger' in userInput:
+                OCA.websites("opening messenger", "https://www.messenger.com/")
+            elif 'open kissanime' in userInput:
+                OCA.websites("opening kiss anime", "https://kissanime.ru/AnimeList?c=p")
+            elif 'open microsoft website' in userInput:
+                OCA.websites("opening microsoft website", "https://www.microsoft.com/en-ph/")
+            elif 'open gmail' in userInput:
+                OCA.websites("opening your gmail", "https://mail.google.com/mail/u/0/?tab=wm&ogbl#inbox")
+
+            # computer files
+
+            elif 'open marvel folder' in userInput:
+                OCA.computerFiles("opening marvels folder", "C:\\Marvels")
+            elif 'open photo folder' in userInput:
+                OCA.computerFiles("opening photo folder", "C:\\Photo")
+            elif 'open music folder' in userInput:
+                OCA.computerFiles("opening music folder", "C:\\Music")
+            elif 'open video folder' in userInput:
+                OCA.computerFiles("opening videos folder", "C:\\Video")
+            elif 'open software folder' in userInput:
+                OCA.computerFiles("opening software folder", "C:\\Software")
+            elif 'open movie folder' in userInput:
+                OCA.computerFiles("opening movies folder", "C:\\Movies")
+            elif 'open visual studio' in userInput:
+                OCA.computerFiles("opening visual studio", "C:\\Program Files (x86)\\Microsoft Visual Studio\\2017"
+                                                           "\\Community\\Common7\\IDE\\devenv.exe")
+            elif 'open unity hub' in userInput:
+                OCA.computerFiles("opening unity hub", "C:\\Program Files\\Unity Hub\\Unity Hub.exe")
+            elif 'open unity' in userInput:
+                OCA.computerFiles("opening unity", "C:\\Program Files\\Unity\\Hub\Editor\\2018.4.19f1"
+                                                   "\\Editor\\Unity.exe")
+            elif 'open inno set up' in userInput:
+                OCA.computerFiles("opening inno set up", "C:\\Program Files (x86)\\Inno Setup 6\\Compil32.exe")
+            elif 'open flex windows' in userInput:
+                OCA.computerFiles("opening flex windows", "C:\\Flex Windows\\LexEditor.exe")
+            elif 'open visual basic' in userInput:
+                OCA.computerFiles("opening visual basic", "C:\\Program Files (x86)\\Microsoft Visual Studio\\VB98VB6.EXE")
+            elif 'open mysql' in userInput:
+                OCA.computerFiles("opening mysql", "C:\\Program Files\\MySQL\\MySQL Workbench 8.0 CE\\MySQLWorkbench.exe")
+            elif 'open devc' in userInput:
+                OCA.computerFiles("opening devc", "C:\\Program Files (x86)\\Dev-Cpp\\devcpp.exe")
+            elif 'open android studio' in userInput:
+                OCA.computerFiles("opening android studio", "C:\\Program Files\\Android\\Android Studio\\bin\\studio64.exe")
+            elif 'open arduino' in userInput:
+                OCA.computerFiles("opening arduino", "C:\\Users\\JeffCatulay\\Desktop\\Arduino")
+            elif 'open notepad++' in userInput:
+                OCA.computerFiles("opening notepad++", "C:\\Program Files (x86)\\Notepad++\\notepad++.exe")
+            elif 'open python' in userInput:
+                OCA.computerFiles("opening python", "C:\\Users\\JeffCatulay\\AppData\\Local\\Programs"
+                                                    "\\Python\\Python38\\python.exe")
+                OCA.computerFiles("opening python", "C:\\Users\\JeffCatulay\\AppData\\Local\\Programs"
+                                                    "\\Python\\Python38\\pythonw.exe")
+            elif 'open pycharm' in userInput:
+                OCA.computerFiles("opening pycharm", "C:\\Program Files\\JetBrains"
+                                                     "\\PyCharm Community Edition 2020.1.2\\bin\\pycharm64.exe")
+            elif 'open sql lite' in userInput:
+                OCA.computerFiles("opening sql lite", "C:\\Program Files\\DB Browser for SQLite\\DB Browser for SQLite.exe")
+            elif 'open intellij' in userInput:
+                OCA.computerFiles("opening intellij", "C:\\Users\\JeffCatulay\\IntelliJ IDEA Community Edition 2020.1.2"
+                                                      "\\bin\\idea64.exe")
+            elif 'open netbeans' in userInput:
+                OCA.computerFiles("opening netbeans", "C:\\Program Files\\NetBeans 8.2 RC\\bin\\netbeans64.exe")
+            elif 'open eclipse' in userInput:
+                OCA.computerFiles("opening eclipse", "C:\\Users\\JeffCatulay\\eclipse\\java-2020-06\\eclipse\\eclipse.exe")
+            elif 'open google' in userInput:
+                OCA.computerFiles("opening google", "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe")
+            elif 'open share it' in userInput:
+                OCA.computerFiles("opening share it", "C:\\Program Files (x86)\\SHAREit Technologies\\SHAREit\\SHAREit.exe")
+            elif 'open premiere pro' in userInput:
+                OCA.computerFiles("opening premiere pro", "C:\\Program Files\\Adobe\\Adobe Premiere Pro CC 2017"
+                                                          "\\Adobe Premiere Pro.exe")
+            elif 'open photoshop cc' in userInput:
+                OCA.computerFiles("opening photoshop cc", "C:\\Program Files\\Adobe\\Adobe Photoshop CC 2015\\Photoshop.exe")
+            elif 'open photoshop cs6' in userInput:
+                OCA.computerFiles("opening photoshop cs6", "C:\\Program Files (x86)\\Adobe\\Adobe Photoshop CS6"
+                                              "\\Adobe Photoshop CS6\\PhotoshopCS6.exe")
+            elif 'open light room' in userInput:
+                OCA.computerFiles("opening light room", "C:\\Program Files\\Adobe\\Adobe Lightroom\\lightroom.exe")
+            elif 'open blender' in userInput:
+                OCA.computerFiles("opening blender", "C:\\Program Files\\Blender Foundation\\Blender 2.81\\blender.exe")
+            elif 'open audacity' in userInput:
+                OCA.computerFiles("opening audacity", "C:\\Program Files (x86)\\Audacity\\audacity.exe")
+            elif 'open vlc' in userInput:
+                OCA.computerFiles("opening vlc", "C:\\Program Files\\VideoLAN\\VLC\\vlc.exe")
+            elif 'show hidden' in userInput:
+                OCA.computerFiles("processing... please wait...", "C:\\Users\\JeffCatulay\\Desktop\\Jeff.bat")
+            elif 'open locker' in userInput:
+                OCA.computerFiles("processing... please wait..", "C:\\Program Files (x86)\\SecretFolder\\SecretFolder.exe")
+            elif 'open save file folder' in userInput:
+                OCA.computerFiles("opening save file folder...", "C:\\Users\\JeffCatulay\\Desktop\\Save Files")
+            # others
+
+            from tkinter import *
+from tkinter import messagebox
+
+
+def interface():
+    """root = tk.Tk()
+    root.resizable(False, False)
+    canvas = tk.Canvas(root, height=600, width=1300, bg="white")
+    canvas.pack()
+    frame = tk.Frame(root, bg="black")
+    frame.place(relwidth=1, relheight=1)
+
+    button = tk.Button(root, text="Open", padx=10, pady=5, fg="white", bg="black", command=main(1))
+    button.pack()
+    root.mainloop()"""
+
+    tkWindow = Tk()
+    tkWindow.geometry('400x150')
+    tkWindow.title('PythonExamples.org - Tkinter Example')
+
+    def showMsg():
+        messagebox.showinfo('Message', 'You clicked the Submit button!')
+
+    button = Button(tkWindow,
+                    text='Submit',
+                    command=showMsg)
+    button.pack()
+
+    tkWindow.mainloop()
+
